@@ -29,7 +29,11 @@ Tendrá otra sección con las instrucciones del juego, es decir, describir su pa
 
 # Tenemos las sguientes clases
 
-1 Personaje, la clase principal. 2. Inventario, es la clase inventario donde tenemos los objetos. 3. Dados, para que nos de un numero aleatorio. 4. Enemigo, la clase contra la que va a pelear el personaje a traves de unos 5. Item una clase la cual va a contener los objetos.
+- Personaje, la clase principal. 
+- Inventario, es la clase inventario donde tenemos los objetos. 
+- Dados, para que nos de un numero aleatorio. 
+- Enemigo, la clase contra la que va a pelear el personaje a traves de unos 
+- Item una clase la cual va a contener los objetos.
 
 ### Clase Personaje:
 
