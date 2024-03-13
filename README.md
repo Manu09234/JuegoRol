@@ -54,7 +54,7 @@ Tendrá otra sección con las instrucciones del juego, es decir, describir su pa
 - **GetExperienciaacumulada** Nos devuelve la experiencia aculada
 - **Experiencia añadida (Int cantidad)**: A la experiencia acumulada le añade la cantidad
 - **Subirdenivel**: aumenta el nivel
-- **Añadir inventario (Item item) **: Recibe un item y llama al metodo de La clase Inventario
+- **Añadir inventario (Item item)**: Recibe un item y llama al metodo de La clase Inventario
 - **ListarItem**: LLamar al metodo del inventario para listar los items
 - **Equipar Item (Int numero)** Para seleccionar del arryze la posicion donde esta el item
 - **Luchar (Enemigo enemigo)** la experiencia acumulada le añade la experiencia que otorga el enemigo + llama a el metodo subir de nivel
@@ -146,3 +146,5 @@ Una vez seleccionada la 1º opcion abra un combate.
 
 - Nombre: Manuel Copado
 - Contacto: manuelcopadorubio200436@gmail.com
+- [Readme del juego](https://github.com/Manu09234/JuegoRol)
+
